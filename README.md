@@ -1,0 +1,1 @@
+Desafio Frontend Mentor componente QR Code utilizando HTML e CSS
